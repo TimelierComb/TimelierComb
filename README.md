@@ -1,12 +1,14 @@
-# PHP Backend developer, 2+ years experience^
+# PHP Backend developer, 2+ years experience
 
-# VLADIMIR LEVSHIN +995^591 909 407^
+# VLADIMIR LEVSHIN 
 
-# GMT+^
+```+995 591 909 407```
 
-```
-levshin.v.99@gmail.com LinkedIn GitHub
-```
+# GMT+4
+
+
+```levshin.v.99@gmail.com``` LinkedIn GitHub
+
 ## ABOUT
 
 PHP backend developer with 2+ years of experience, working in teams ranging
@@ -24,9 +26,9 @@ PHP, MySQL, Laravel, LAMP, CRUD, JavaScript, HTML, CSS, Git
 
 ## EXPERIENCE
 
-```
+
 INTERVOLGA: 11/2022 – PRESENT, 2+ years
-```
+
 - Worked on extending CRM functionality, implemented 5 new business-
     entities, which automated the work of employees, accelerated data
     processing by 30 - 35%
@@ -40,7 +42,7 @@ INTERVOLGA: 11/2022 – PRESENT, 2+ years
 
 ### VOLGOGRAD STATE TECHNICAL UNIVERSITY – 2017 - 2023
 
-```
+
 Master/specialist of engineering
-```
+
 

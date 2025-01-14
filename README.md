@@ -1,13 +1,13 @@
 # PHP Backend developer, 2+ years experience
 
-# VLADIMIR LEVSHIN 
+VLADIMIR LEVSHIN 
 
 ```+995 591 909 407```
 
-# GMT+4
+GMT+4
 
 
-```levshin.v.99@gmail.com``` LinkedIn GitHub
+```levshin.v.99@gmail.com```
 
 ## ABOUT
 

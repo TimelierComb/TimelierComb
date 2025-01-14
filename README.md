@@ -2,12 +2,19 @@
 
 PHP Backend developer, 2+ years experience
 
-```+995 591 909 407```
 
-GMT+4
-
-
-```levshin.v.99@gmail.com```
+WhatsApp: 
+```
++995 591 909 407
+```
+Email:
+```
+levshin.v.99@gmail.com
+```
+LinkedIn:
+```
+https://www.linkedin.com/in/vladimir-levshin/
+```
 
 ## ABOUT
 
@@ -29,12 +36,12 @@ PHP, MySQL, Laravel, LAMP, CRUD, JavaScript, HTML, CSS, Git
 
 INTERVOLGA: 11/2022 – PRESENT, 2+ years
 
-- Worked on extending CRM functionality, implemented 5 new business-
+- Worked on extending CRM functionality, implemented new business-
     entities, which automated the work of employees, accelerated data
-    processing by 30 - 35%
-- Added 2 new CRM sections, which simplified internal work processes
-- Onboarded and mentored 2 new developers
-- Added 164 Unit and functional tests to reduce the number of bugs on adding
+    processing
+- Added new CRM sections, which simplified internal work processes
+- Onboarded and mentored new developers
+- Added Unit and functional tests to reduce the number of bugs on adding
     new functionality
     Technologies: PHP, MySQL, JavaScript, LAMP, CRUD, UnitTests, Git
 

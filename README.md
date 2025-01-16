@@ -43,7 +43,8 @@ INTERVOLGA: 11/2022 – PRESENT, 2+ years
 - Onboarded and mentored new developers
 - Added Unit and functional tests to reduce the number of bugs on adding
     new functionality
-    Technologies: PHP, MySQL, JavaScript, LAMP, CRUD, UnitTests, Git
+
+Technologies: PHP, Laravel, MySQL, JavaScript, LAMP, CRUD, UnitTests, Git
 
 ## EDUCATION
 
